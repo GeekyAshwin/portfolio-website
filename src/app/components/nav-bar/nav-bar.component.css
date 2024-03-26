@@ -1,3 +1,10 @@
 a {
     cursor: pointer;
 }
+nav, ul , li ,a {
+  background: rgb(29,39,49);
+  color: white;
+}
+#download {
+  background-color: #6a6ad7;
+}
